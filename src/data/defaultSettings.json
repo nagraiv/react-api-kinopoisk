@@ -1,0 +1,17 @@
+{
+  "localStorageKey": "spa_data",
+  "defaultData": {
+    "moviesCollection": "top250",
+    "pagination": {
+      "totalPages": 0,
+      "limit": 12,
+      "page": 1
+    },
+    "filter": {
+      "sort": "",
+      "query": ""
+    },
+    "isDetailsOpened": false,
+    "movieDetails": {}
+  }
+}

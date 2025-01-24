@@ -1,0 +1,34 @@
+[
+  {
+    "name": "250 лучших фильмов",
+    "slug": "top250"
+  },
+  {
+    "name": "100 лучших фильмов XX века",
+    "slug": "top_100_20_century_by_maltin"
+  },
+  {
+    "name": "100 лучших фильмов XXI века",
+    "slug": "100_greatest_movies_XXI"
+  },
+  {
+    "name": "Лауреаты «Оскара» за лучший фильм",
+    "slug": "oscar-best-film"
+  },
+  {
+    "name": "Лучшие экранизации",
+    "slug": "hd-adaptation"
+  },
+  {
+    "name": "60 лучших сиквелов",
+    "slug": "top_60_sequel"
+  },
+  {
+    "name": "Лучшие детские фильмы",
+    "slug": "theme_kids_films"
+  },
+  {
+    "name": "Золотая коллекция «Союзмультфильма»",
+    "slug": "best_of_soyuzmultfilm"
+  }
+]
