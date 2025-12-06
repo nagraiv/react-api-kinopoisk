@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export default class MovieService {
-    static URL = 'https://api.kinopoisk.dev/v1.4/movie';
+    static URL = 'https://api.poiskkino.dev/v1.4/movie';
 
     static headers = {
         'accept': 'application/json',
